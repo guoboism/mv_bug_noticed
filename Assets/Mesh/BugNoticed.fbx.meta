@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: cea94e2bfb0a9ca4c82d475c8121f75b
+timeCreated: 1492332264
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CINEMA_4D_Editor
+    100004: Disc
+    100006: Array
+    100008: Ground
+    100010: Pad
+    100012: Pad_1
+    100014: Pillar_1
+    100016: Pillar_2
+    100018: Pillar_3
+    100020: Pillar_4
+    100022: Pillar_5
+    100024: Pillar_6
+    100026: Pillar_7
+    100028: Pillar_8
+    100030: Shooter
+    400000: //RootNode
+    400002: CINEMA_4D_Editor
+    400004: Disc
+    400006: Array
+    400008: Ground
+    400010: Pad
+    400012: Pad_1
+    400014: Pillar_1
+    400016: Pillar_2
+    400018: Pillar_3
+    400020: Pillar_4
+    400022: Pillar_5
+    400024: Pillar_6
+    400026: Pillar_7
+    400028: Pillar_8
+    400030: Shooter
+    2300000: Disc
+    2300002: Ground
+    2300004: Pad
+    2300006: Pad_1
+    2300008: Pillar_1
+    2300010: Pillar_2
+    2300012: Pillar_3
+    2300014: Pillar_4
+    2300016: Pillar_5
+    2300018: Pillar_6
+    2300020: Pillar_7
+    2300022: Pillar_8
+    2300024: Shooter
+    3300000: Disc
+    3300002: Ground
+    3300004: Pad
+    3300006: Pad_1
+    3300008: Pillar_1
+    3300010: Pillar_2
+    3300012: Pillar_3
+    3300014: Pillar_4
+    3300016: Pillar_5
+    3300018: Pillar_6
+    3300020: Pillar_7
+    3300022: Pillar_8
+    3300024: Shooter
+    4300000: Disc
+    4300002: Pillar_8
+    4300004: Pillar_7
+    4300006: Pillar_6
+    4300008: Pillar_5
+    4300010: Pillar_4
+    4300012: Pillar_3
+    4300014: Pillar_2
+    4300016: Pillar_1
+    4300018: Pad
+    4300020: Pad_1
+    4300022: Ground
+    4300024: Shooter
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
